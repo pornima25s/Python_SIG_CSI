@@ -1,3 +1,48 @@
+# Implicit conversion from int to float
+num_int = 5
+num_float = num_int + 2.5
+print(num_float)  # Output: 7.5
+print(type(num_float))  # Output: <class 'float'>
+
+
+
+
+value = 123
+string_value = str(value)
+print(string_value)  # Output: "123"
+print(type(string_value))  # Output: <class 'str'>
+
+
+
+value = "42"
+int_value = int(value)
+print(int_value)  # Output: 42
+print(type(int_value))  # Output: <class 'int'>
+
+
+
+
+
+#ord(): Converts a character to its Unicode integer value.
+
+print(ord('A'))  # Output: 65
+
+
+#hex(): Converts an integer to a hexadecimal string.
+
+print(hex(255))  # Output: '0xff'#
+
+
+
+
+
+
+
+
+
+
+
+
 # Type Conversion (Casting) Examples
 
 # Integer to Float
