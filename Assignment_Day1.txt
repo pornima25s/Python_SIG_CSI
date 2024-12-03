@@ -1,0 +1,28 @@
+Python SIG CSI
+
+Assignment based on Day 1
+
+1. Write a program to assign values to variables of different data types (integer, float, string, and boolean) and print their values and types.
+
+2. Write a program to take a user's name and age as input and display a greeting message including their age.
+
+3. Write a program to input two numbers from the user and perform addition, subtraction, multiplication, division, and modulus operations. Display the results.
+
+4. Write a program to input two numbers and check if both numbers are greater than 50. Print "True" if both are greater, otherwise print "False".
+
+5. Write a program to check if a given number is positive, negative, or zero.
+
+6. Write a program to print the first 10 natural numbers using a for loop.
+
+7. Write a program to calculate the factorial of a number using a while loop.
+
+8. Write a program to print the following pattern using nested for loops:
+*
+**
+***
+****
+*****
+
+9. Write a program to create a multiplication table (1 to 10) for a number entered by the user.
+
+10. Write a program to find all even numbers from 1 to 100 using a for loop and print them.
